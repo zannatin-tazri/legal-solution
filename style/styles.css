@@ -1,39 +1,46 @@
-.legal-solution-btn{
-    background-color:#B68C5A;
+/*Style For Button */
+.legal-solution-btn {
+    background-color: #B68C5A;
 }
-.font{
+
+/* Font Style */
+.font {
     font-family: 'EB Garamond';
 }
-.font-poppins{
+
+.font-poppins {
     font-family: 'Poppins';
 }
 
-.banner-text{
+/* Style for banner */
+.banner-text {
     background-image: url(../images/banner.png);
-    background-repeat: no-repeat; 
-    color: white;  
+    background-repeat: no-repeat;
+    color: white;
 }
 
-.color-overlay{
+.color-overlay {
     padding-left: 50px;
-    
     position: absolute;
     width: 100%;
     height: 100%;
 }
 
-.search-box{
+.search-box {
     width: 25%;
     margin-left: 400px;
-    
 }
-.practice-area{
+
+/* Practice area */
+.practice-area {
     margin-top: 700px;
     text-align: center;
 }
-.card>img{
-   padding-left: 40px;
+
+.card>img {
+    padding-left: 40px;
 }
-.card-group{
+
+.card-group {
     text-align: center;
 }
